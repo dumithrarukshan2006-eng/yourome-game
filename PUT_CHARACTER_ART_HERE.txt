@@ -1,0 +1,1 @@
+Send your character photo in chat first. We'll prepare a game-ready sprite/transparent PNG and update index.html to use it here.
